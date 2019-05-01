@@ -1,0 +1,17 @@
+body {
+ background: black;
+ color: gray;
+}
+
+.res3 {
+  color: gold;
+}
+
+#heroo { 
+ color:green;
+ font-size: 2em;
+  }
+  
+  .games-begin {
+    color: teal;
+  }
